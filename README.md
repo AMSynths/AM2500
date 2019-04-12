@@ -13,4 +13,4 @@ The AMSynths website at https://amsynths.co.uk/home/my-synths/2500-rack/ contain
 
 If you need the original schematics go to https://guitarfool.com/ARP2500.html or purchase them from Music Parts at https://www.musicparts.com/products.asp?Company=Arp. I will not be posting the original schematics here.
 
-The AMSynths hardware designs (PCB layouts and schematics, panel CAD) are licensed as open source under the MIT license.
+The AMSynths hardware designs (PCB layouts and schematics,documentation, panel CAD) are licensed as open source under the GNU General Purpose License V3.0.
